@@ -1,0 +1,36 @@
+td {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    
+}
+p.blue {
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
+p.yellow {
+    height: 100%;
+    width: 100%;
+    background-color: yellow;
+}
+p.green {
+    height: 100%;
+    width: 100%;
+    background-color: green;
+}
+p.grey {
+    height: 100%;
+    width: 100%;
+    background-color: grey;
+}
+p.red {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}
+p.orange {
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+}
